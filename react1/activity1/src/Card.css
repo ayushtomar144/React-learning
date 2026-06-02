@@ -1,0 +1,10 @@
+.card-item {
+    background-color: pink;
+    color: black;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 15px;
+    width: 250px;
+    margin: 10px;
+    
+}
